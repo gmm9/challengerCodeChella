@@ -21,6 +21,7 @@
 
 body {
   font-family: var(--fonte-texto);
+  color: var(--cinza);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

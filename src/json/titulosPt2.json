@@ -67,28 +67,28 @@
         "id": 10,
         "titulo": "Novos Linguagens",
         "size": "34px",
-        "weight": "700",
+        "weight": "500",
         "fonte": "var(--fonte-texto)"
     },
     {
         "id": 11,
         "titulo": "Secos & Entregues",
         "size": "34px",
-        "weight": "700",
+        "weight": "500",
         "fonte": "var(--fonte-texto)"
     },
     {
         "id": 12,
         "titulo": "Planet Portugol",
         "size": "34px",
-        "weight": "700",
+        "weight": "500",
         "fonte": "var(--fonte-texto)"
     },
     {
         "id": 13,
         "titulo": "Devimundos",
         "size": "34px",
-        "weight": "700",
+        "weight": "500",
         "fonte": "var(--fonte-texto)"
     }
 

@@ -18,3 +18,16 @@
     justify-content: space-around;
     color: var(--cinza);
 }
+
+@media (min-width: 1440px) {
+    .rodape {
+        flex-direction: row;
+        justify-content: space-around;
+        gap: 300px;
+    }
+    .textoDev {
+        font-size: 22px;
+        width: 28%;
+        text-align: left;
+    }
+}

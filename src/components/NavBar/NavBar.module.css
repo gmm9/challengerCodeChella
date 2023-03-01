@@ -35,3 +35,13 @@
         font-size: 20px;
     }
 }
+
+@media (min-width: 1440px) {
+    .navbar {
+        flex-direction: row;
+        height: 120px;
+    }
+    .navList {
+        padding: 0;
+    } 
+}

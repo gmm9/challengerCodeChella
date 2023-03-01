@@ -10,10 +10,35 @@
     align-items: center;
     justify-content: center;
 }
+.linha {
+    display: none;
+}
 
 .spanTitulo::before {
     content: ' <';
 }
 .spanTitulo::after {
     content: '>';
+}
+@media (min-width: 768px) {
+    .boxMostardaContainer {
+        display: flex;
+        gap: 20px;
+    }
+    .boxMostarda {
+        width: 417px;
+        font-size: 46px;
+    }
+    .linha {
+        display: block;
+        width: 83px;
+        border-bottom: 1px solid var(--mostarda);
+        margin-bottom: 75px;
+    }
+}
+@media (min-width: 1440px) {
+    .linha {
+        gap: 50px;
+        width: 359px;
+    }
 }

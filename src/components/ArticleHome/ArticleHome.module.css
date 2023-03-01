@@ -31,10 +31,38 @@
     text-align: center;
     padding-bottom: 20px;
 }
+.articleHome__box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 @media (min-width: 768px) {
     .articleHome {
         padding: 32px 60px;
     }
 
+}
+@media (min-width: 1440px) {
+    .articleHome {
+        flex-direction: row;
+        gap: 30px;
+        padding: 40px 80px;
+    }
+    .articleHome__img {
+        width:50%;
+        height: 401px;
+    }
+    .articleHome__box {
+        display: flex;
+        width: 50%;
+    }
+    .articleHome__titulo {
+        font-size: 30px;
+    }
+    .articleHome__texto  {
+        font-size: 23px;
+        text-align: center;
+        line-height:40px;
+    }
 }

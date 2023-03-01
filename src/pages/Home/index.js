@@ -1,7 +1,6 @@
 import styles from './Home.module.css';
 import Banner from "components/Banner";
 import bgVerao from './bgverao.jpg';
-import fotoPessoas from './festaHome.png';
 import ArticleHome from 'components/ArticleHome';
 import BoxMostarda from 'components/BoxMostarda';
 import SectionTitulos from 'components/SectionTitulos';
@@ -9,6 +8,7 @@ import lista1 from 'json/titulos.json';
 import lista2 from 'json/titulosPt2.json';
 import Rodape from 'components/Rodape';
 import AlinharTitulos from 'components/AlinharTitulos';
+import ImagemHome from 'components/ImagemHome';
 
 export default function Home() {
     return (
@@ -29,7 +29,7 @@ export default function Home() {
             return <SectionTitulos {...lista} key={lista.id} />
         })}
         </AlinharTitulos>
-        <img className={styles.img} src={fotoPessoas} alt="povo feliz no festival"/>
+        <ImagemHome />
         </section>
         <Rodape />
         </main>

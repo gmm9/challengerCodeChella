@@ -9,8 +9,8 @@ import React from 'react'
 export default function Rodape() {
   return (
     <footer className={styles.rodape}>
+    <div className={styles.blocoOne}>
     <img src={logo} alt="logo da codechella" />
-    <div>
     <p>Acesse nossas redes</p>
     <ul className={styles.icones}>
         <li><AiOutlineWhatsApp /></li>
@@ -19,7 +19,7 @@ export default function Rodape() {
         <li><GrTwitter /></li>
     </ul>
     </div>
-        <p>Desenvolvido por Alura/Gabriel. Projeto ficticio sem fins comerciais</p>
+        <p className={styles.textoDev}>Desenvolvido por Alura/Gabriel. Projeto ficticio sem fins comerciais.</p>
     </footer>
-  )
+  ) 
 }

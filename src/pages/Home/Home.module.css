@@ -26,5 +26,10 @@
         width: 768px;
         height: 338px;
     }
-
+}
+@media (min-width: 1440px) {
+    .img {
+        width: 768px;
+        height: 338px;
+    }
 }
