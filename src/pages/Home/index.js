@@ -6,7 +6,6 @@ import BoxMostarda from 'components/BoxMostarda';
 import SectionTitulos from 'components/SectionTitulos';
 import lista1 from 'json/titulos.json';
 import lista2 from 'json/titulosPt2.json';
-import Rodape from 'components/Rodape';
 import AlinharTitulos from 'components/AlinharTitulos';
 import ImagemHome from 'components/ImagemHome';
 
@@ -31,7 +30,6 @@ export default function Home() {
         </AlinharTitulos>
         <ImagemHome />
         </section>
-        <Rodape />
         </main>
     )
 }

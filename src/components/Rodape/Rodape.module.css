@@ -15,7 +15,8 @@
     padding-top: 15px;
     font-size: 25px;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 15px;
     color: var(--cinza);
 }
 

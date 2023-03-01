@@ -1,0 +1,11 @@
+
+
+@media (min-width: 1440px) {
+    .classExclusiva {
+        order: 1;
+      }
+      .classExclusiva > div {
+        text-align: right;
+      }
+      
+}

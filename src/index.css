@@ -20,6 +20,7 @@
 }
 
 body {
+  background-image: var(--background);
   font-family: var(--fonte-texto);
   color: var(--cinza);
   -webkit-font-smoothing: antialiased;

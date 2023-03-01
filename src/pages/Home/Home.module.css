@@ -1,5 +1,4 @@
 .sectionHome {
-    background-image: var(--background);
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -28,7 +27,7 @@
     }
 }
 @media (min-width: 1440px) {
-    .img {
+    .img{
         width: 768px;
         height: 338px;
     }
