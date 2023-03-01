@@ -1,0 +1,95 @@
+
+    [
+    {
+        "id": 1,
+        "titulo": "The comeback of ZoroGueto",
+        "size": "42px",
+        "weight": "800",
+        "fonte": "var(--fonte-texto)"
+    },
+    {
+        "id": 2,
+        "titulo": "O Gato Sabrino",
+        "size": "34px",
+        "weight": "700",
+        "fonte": "var(--fonte-texto)"
+    },
+    {
+        "id": 3,
+        "titulo": "Alura Quest",
+        "size": "34px",
+        "weight": "700",
+        "fonte": "var(--fonte-texto)"
+    },
+    {
+        "id": 4,
+        "titulo": "Charlie Brown DevJr",
+        "size": "34px",
+        "weight": "700",
+        "fonte": "var(--fonte-texto)"
+    },
+    {
+        "id": 5,
+        "titulo": "Legião Unicode",
+        "size": "34px",
+        "weight": "700",
+        "fonte": "var(--fonte-texto)"
+    },
+    {
+        "id": 6,
+        "titulo": "Os Paralamas do Typescript",
+        "size": "34px",
+        "weight": "700",
+        "fonte": "var(--fonte-texto)"
+    },
+    {
+        "id": 7,
+        "titulo": "Os JavaScripts",
+        "size": "34px",
+        "weight": "700",
+        "fonte": "var(--fonte-texto)"
+    },
+    {
+        "id": 8,
+        "titulo": "Devs do Hawaii",
+        "size": "34px",
+        "weight": "700",
+        "fonte": "var(--fonte-texto)"
+    },
+    {
+        "id": 9,
+        "titulo": "Los Devops",
+        "size": "34px",
+        "weight": "700",
+        "fonte": "var(--fonte-texto)"
+    },
+    {
+        "id": 10,
+        "titulo": "CPM 404",
+        "size": "34px",
+        "weight": "700",
+        "fonte": "var(--fonte-texto)"
+    },
+    {
+        "id": 11,
+        "titulo": "NX NULL",
+        "size": "34px",
+        "weight": "700",
+        "fonte": "var(--fonte-texto)"
+    },
+    {
+        "id": 12,
+        "titulo": "Roupa Senior",
+        "size": "34px",
+        "weight": "700",
+        "fonte": "var(--fonte-texto)"
+    },
+    {
+        "id": 13,
+        "titulo": "SuperJava",
+        "size": "34px",
+        "weight": "700",
+        "fonte": "var(--fonte-texto)"
+    }
+
+]

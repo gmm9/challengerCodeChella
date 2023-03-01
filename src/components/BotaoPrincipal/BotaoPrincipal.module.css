@@ -1,0 +1,30 @@
+.botaoPrincipal {
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px 16px;
+gap: 16px;
+background: var(--azul-escuro);
+box-shadow: 1px 2px 0px #000000;
+border-radius: 16px;
+font-size: 20px;
+color: #fff;
+font-size: 22px;
+}
+.botaoPrincipal > p {
+    font-weight: 700;
+}
+.botaoPrincipal:hover {
+    background-color: var(--hover);
+}
+
+@media (min-width: 768px) {
+    .botaoPrincipal {
+        /* margin: 0 100px; */
+        width: 40%;
+        gap: 10px;
+        padding: 10px 0;
+    }
+
+}

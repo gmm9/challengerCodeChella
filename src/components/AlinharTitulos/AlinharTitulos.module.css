@@ -1,0 +1,9 @@
+@media (min-width: 768px) {
+    .alinharTitulos {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin: 0 60px;
+    }
+
+}

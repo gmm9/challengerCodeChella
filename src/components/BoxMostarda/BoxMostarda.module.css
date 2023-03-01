@@ -1,0 +1,19 @@
+.boxMostarda {
+    margin: 60px 0 40px;
+    width: 285px;
+    height: 74px;
+    display: flex;
+    font-size: 32px;
+    background-color: var(--mostarda);
+    color: var(--white);
+    font-family: var(--fonte-titulo);
+    align-items: center;
+    justify-content: center;
+}
+
+.spanTitulo::before {
+    content: ' <';
+}
+.spanTitulo::after {
+    content: '>';
+}

@@ -1,8 +1,26 @@
-body {
+:root {
+  --fonte-texto: 'Raleway', sans-serif; 
+  --fonte-titulo: 'Calistoga', cursive;
+  --background: linear-gradient(180deg, #BFDAE6 0%, #FCF0DD 50%, #FACF9D 100%);;
+  --azul-claro: #C8DEEF;
+  --branco: #FBF0DD;
+  --amarelo: #FACF9D;
+  --azul-escuro: #2E7BA2;
+  --mostarda: #DF9010;
+  --hover: #519EC5;
+  --white: #fff;
+  --cinza: #444;
+}
+
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+body {
+  font-family: var(--fonte-texto);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

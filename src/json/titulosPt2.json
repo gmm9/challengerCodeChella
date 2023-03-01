@@ -1,0 +1,95 @@
+
+    [
+    {
+        "id": 1,
+        "titulo": "Ruby on Rails Seixas",
+        "size": "42px",
+        "weight": "800",
+        "fonte": "var(--fonte-texto)"
+    },
+    {
+        "id": 2,
+        "titulo": "Tim React",
+        "size": "34px",
+        "weight": "700",
+        "fonte": "var(--fonte-texto)"
+    },
+    {
+        "id": 3,
+        "titulo": "Ivete Csharp",
+        "size": "34px",
+        "weight": "700",
+        "fonte": "var(--fonte-texto)"
+    },
+    {
+        "id": 4,
+        "titulo": "Molejo MySQL",
+        "size": "34px",
+        "weight": "700",
+        "fonte": "var(--fonte-texto)"
+    },
+    {
+        "id": 5,
+        "titulo": "Novos Scripts",
+        "size": "34px",
+        "weight": "700",
+        "fonte": "var(--fonte-texto)"
+    },
+    {
+        "id": 6,
+        "titulo": "Barão Warning",
+        "size": "34px",
+        "weight": "700",
+        "fonte": "var(--fonte-texto)"
+    },
+    {
+        "id": 7,
+        "titulo": "AngryScripts",
+        "size": "34px",
+        "weight": "700",
+        "fonte": "var(--fonte-texto)"
+    },
+    {
+        "id": 8,
+        "titulo": "O Rappida Entrega",
+        "size": "34px",
+        "weight": "700",
+        "fonte": "var(--fonte-texto)"
+    },
+    {
+        "id": 9,
+        "titulo": "Viper Smoke",
+        "size": "34px",
+        "weight": "700",
+        "fonte": "var(--fonte-texto)"
+    },
+    {
+        "id": 10,
+        "titulo": "Novos Linguagens",
+        "size": "34px",
+        "weight": "700",
+        "fonte": "var(--fonte-texto)"
+    },
+    {
+        "id": 11,
+        "titulo": "Secos & Entregues",
+        "size": "34px",
+        "weight": "700",
+        "fonte": "var(--fonte-texto)"
+    },
+    {
+        "id": 12,
+        "titulo": "Planet Portugol",
+        "size": "34px",
+        "weight": "700",
+        "fonte": "var(--fonte-texto)"
+    },
+    {
+        "id": 13,
+        "titulo": "Devimundos",
+        "size": "34px",
+        "weight": "700",
+        "fonte": "var(--fonte-texto)"
+    }
+
+]
