@@ -7,7 +7,7 @@ export default function MenuMobile() {
         <ul className={styles.menuList}>
             <li><MenuLink to="/experiencia">A experiência</MenuLink></li>
             <li><div className={styles.linha}></div></li>
-            <li>Mapa de Setores</li>
+            <li><MenuLink to="/mapa">Mapa de Setores</MenuLink></li>
             <li><div className={styles.linha}></div></li>
             <li>Informação</li>
             <li><div className={styles.linha}></div></li>

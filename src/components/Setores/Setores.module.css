@@ -1,0 +1,11 @@
+
+.pista {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-bottom: 25px;
+}
+.mapaContainer__texto {
+    font-size: 20px;
+    font-weight: 500;
+}

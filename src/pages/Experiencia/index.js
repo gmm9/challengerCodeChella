@@ -1,4 +1,4 @@
-import styles from './Experiencia.module.css';
+// import styles from './Experiencia.module.css';
 import imgBanner from './experienciaBanner.jpg'
 import Banner from 'components/Banner';
 import moca1peq from './imagens/moca1peq.jpg';
