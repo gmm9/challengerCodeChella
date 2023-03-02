@@ -1,0 +1,22 @@
+.boxImg {
+    width: 312px;
+    overflow: hidden;
+}
+
+.img {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.titulo {
+    font-size: 32px;
+    font-weight: 700;
+    padding: 25px;
+}
+
+.texto {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 40px;
+    /* margin-bottom: 30px; */
+}
