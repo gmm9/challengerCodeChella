@@ -9,7 +9,6 @@
 }
 
 .dropdown {
-
 border: none;
 display: flex;
 justify-content: space-between;
@@ -33,11 +32,13 @@ padding: 0 15px;
     line-height: 40px;
     padding: 5px;
     text-align: center;
+    padding: 10px 20px;
 }
 
 @media (min-width: 768px) {
     .container {
         width: 648px;
+
     }
 
     .dropdown  {

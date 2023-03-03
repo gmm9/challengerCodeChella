@@ -10,7 +10,7 @@ export default function InfoSection() {
             <DropdownInfo titulo="Quais serão as atrações?">
             Teremos dois dias de shows, o primeiro (11/03) 
             com bandas de rock, e o segundo (12/03) com bandas pop.
-             Confira o line-up em detalhes clicando neste link!
+             <a href='/'> Confira o line-up em detalhes clicando neste link!</a>
             </DropdownInfo>
 
             <DropdownInfo titulo="Qual é a classificação etária?">

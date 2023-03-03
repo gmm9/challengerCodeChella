@@ -1,0 +1,45 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding-bottom: 20px;
+}
+
+.label {
+    font-weight: 700;
+    font-size: 30px;
+    width: 290px;
+}
+
+.input {
+    width: 312px;
+    height: 48px;
+    border: none;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 16px;
+}
+
+@media (min-width: 768px) {
+    .container {
+        width: 648px;
+    }
+    .label {
+        width: 100%;
+    }
+    .input {
+        width: 648px;
+    }
+}
+@media (min-width: 1440px) {
+    .container {
+        width: 100%;
+    }
+    .label {
+        width: auto;
+    }
+    .input {
+        width: auto;
+    }
+}

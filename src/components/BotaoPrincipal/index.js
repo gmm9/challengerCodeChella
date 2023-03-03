@@ -1,11 +1,10 @@
-import { GiTicket } from 'react-icons/gi';
 import styles from './BotaoPrincipal.module.css';
 
-export default function BotaoPrincipal({children}) {
+export default function BotaoPrincipal({children, icone}) {
   return (
     <button className={styles.botaoPrincipal}>
     <p>{children}</p>
-    <GiTicket />
+    {icone}
     </button>
   )
 }

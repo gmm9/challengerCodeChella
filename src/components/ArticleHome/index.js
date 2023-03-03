@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react';
 import styles from './ArticleHome.module.css';
 import pessoas from './multidao.png'; 
 import festa from './pessoalFesta.png';
+import { GiTicket } from 'react-icons/gi';
 
 export default function ArticleHome() {
   const [tamanho, setTamanho] = useState(window.innerWidth);
@@ -25,7 +26,7 @@ export default function ArticleHome() {
         <p className={styles.articleHome__texto}>Hora de programar nossa memória com novas 
         lembranças! Uma nova experiência sobre música, linguagens e, claro, tecnologia!
          Somos um festival diverso, com vários artistas e referências. Divirta-se!</p>
-         <BotaoPrincipal>Comprar ingresso!</BotaoPrincipal>
+         <BotaoPrincipal icone={<GiTicket />}>Comprar ingresso!</BotaoPrincipal>
          </div>
     </article>
   )
