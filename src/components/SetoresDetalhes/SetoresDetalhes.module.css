@@ -9,3 +9,21 @@
     font-weight: 700;
     font-size: 32px;
 }
+
+@media (min-width: 768px) {
+    .container {
+        margin: 25px 60px;
+    }
+    .titulo {
+        font-size: 40px;
+    }
+}
+
+@media (min-width: 1440px) {
+    .boxSetores {
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        gap: 30px;
+        margin-bottom: 45px;
+    }
+}

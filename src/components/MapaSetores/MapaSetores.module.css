@@ -18,3 +18,29 @@
     font-weight: 700;
     margin-bottom: 25px;
 }
+
+@media (min-width: 768px) {
+    .imgContainer {
+        height: 630px;
+    }
+    .boxTitulo {
+        font-size: 32px;
+    }
+}
+@media (min-width: 1440px) {
+    .mapaContainer {
+        width: 1200px;
+        height: 609px;
+        flex-direction: row;
+        justify-content: center;
+        gap: 50px;
+    }
+    .imgContainer {
+        width: 690px;
+        height: 609px;
+    }
+    .boxTitulo {
+        margin-top: 45px;
+        width: 50%;
+    }
+}
