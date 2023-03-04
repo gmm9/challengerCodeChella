@@ -28,7 +28,6 @@
     .form {
         width: 795px;
         /* border: 1px solid red; */
-        overflow: hidden;
     }
     .form__dupla {
         display: flex;

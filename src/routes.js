@@ -5,6 +5,7 @@ import Home from "pages/Home";
 import Informacao from "pages/Informacao";
 import Ingresso from "pages/Ingresso";
 import Mapa from "pages/Mapa";
+import Sucesso from "pages/Sucesso";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 function AppRoutes() {
@@ -17,6 +18,7 @@ function AppRoutes() {
                 <Route path="/mapa" element={<Mapa />}></Route>
                 <Route path="/informacao" element={<Informacao />}></Route>
                 <Route path="/ingresso" element={<Ingresso />}></Route>
+                <Route path="/sucesso" element={<Sucesso />}></Route>
                 </Routes>
         <Rodape />
         </BrowserRouter>
