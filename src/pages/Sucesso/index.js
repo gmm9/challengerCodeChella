@@ -11,7 +11,9 @@ export default function Sucesso() {
         Seu ingresso está aqui!
     </Banner>
     <h2>Uhul, agora sim! Seu ingresso está aqui, apresente na entrada do evento e divirta-se!</h2>
+    <div className={styles.boxTicket}>
     <Ticket />
+    </div>
     </main>
   )
 }
