@@ -10,6 +10,7 @@
   --hover: #519EC5;
   --white: #fff;
   --cinza: #444;
+  --modal:  hsl(0, 0%, 0%, 0.5);
 }
 
 * {
