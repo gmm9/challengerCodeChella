@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+<p align="center">
+  <img height="100" src="https://github.com/gmm9/challengerCodeChella/blob/main/src/components/Padrao/NavBar/logoBranca.png" />
+</p>
+<h1 align="center">Challenger CodeChella - React + CSS</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🗃 Descrição
 
-## Available Scripts
+<p>Um projeto feito pela <a href="https://www.alura.com.br/">Alura</a>, onde nos desafia a treinar o que aprendemos ao longo do ano, nesse desafio é proposto um 
+festival de musica totalmente sem fins lucrativos, que possui area de depoimentos, mapa de cadeiras, informações sobre o evento e regras e simula uma tela de compra de ingresso com um formulario basico. Nesse projeto consegui usar pela primeira vez o reactjs, depois de tantos cursos pude aplicar o conhecimento adquirido neste projeto, assim facilitando a estrutura dele, consegui me desafiar pois usei react-route, react-icons e diversos hooks, acredito que preciso aprender muito ainda porem me sinto orgulhoso do meu primeiro projeto oficial react ficar tao belo, e bom agora continuar praticando e melhorar principalmente a organização dele.
+</p>
 
-In the project directory, you can run:
+## 💡 Informações do projeto
 
-### `npm start`
+### 💻 Ambiente: 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 🛠 Principais tecnologias:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">](https://reactjs.org/docs/getting-started.html)
+- [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🔧 Instalação e execução
 
-### `npm run build`
+1. Clone o repositório
+```
+git clone https://github.com/gmm9/challengerCodeChella.git
+```
+2. Acesse a pasta do projeto
+```
+3. abra em sua IDE(preferencia VSCODE), e utilize `npm start`
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 📸 Print em funcionamento
+<p align="center">
+<img src="https://user-images.githubusercontent.com/40903360/222960691-15b6fc07-a46b-4b6f-94f9-f20b04d241dc.png" width="40%"> 
+<img src="https://user-images.githubusercontent.com/40903360/222960753-3423633d-8bfc-4619-9db9-4ac8d1077ad0.png" width="40%"> 
+<img src="https://user-images.githubusercontent.com/40903360/222960827-76124255-90eb-43d2-8448-08ad4ffcd782.png" width="40%"> 
+<img src="https://user-images.githubusercontent.com/40903360/222960868-add091f3-8794-4879-a6eb-8509f7126f9d.png" width="40%"> 
+</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
