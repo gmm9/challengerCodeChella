@@ -1,5 +1,5 @@
-import Banner from 'components/Banner'
-import Ticket from 'components/Ticket'
+import Banner from 'components/Padrao/Banner'
+import Ticket from 'components/PaginaSucesso/Ticket'
 import banner from './bannerPessoas.jpg'
 import styles from './Sucesso.module.css';
 

@@ -1,7 +1,7 @@
 import styles from './Informacao.module.css';
 import infoBanner from './info.jpg'
-import Banner from 'components/Banner';
-import InfoSection from 'components/InfoSection';
+import Banner from 'components/Padrao/Banner';
+import InfoSection from 'components/PaginaInformacao/InfoSection';
 
 export default function Informacao() {
   return (

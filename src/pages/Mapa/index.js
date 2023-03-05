@@ -1,8 +1,8 @@
 import styles from './Mapa.module.css';
-import Banner from 'components/Banner'
-import MapaSetores from 'components/MapaSetores';
+import Banner from 'components/Padrao/Banner'
+import MapaSetores from 'components/PaginaMapa/MapaSetores';
 import bgmapa from './bgmapa.jpg';
-import SetoresDetalhes from 'components/SetoresDetalhes';
+import SetoresDetalhes from 'components/PaginaMapa/SetoresDetalhes';
 
 export default function Mapa() {
   return (

@@ -1,10 +1,10 @@
 // import styles from './Experiencia.module.css';
 import imgBanner from './experienciaBanner.jpg'
-import Banner from 'components/Banner';
+import Banner from 'components/Padrao/Banner';
 import moca1peq from './imagens/moca1peq.jpg';
 import sacola1peq from './imagens/sacola1peq.jpg';
 import roda1peq from './imagens/roda1peq.jpg';
-import SectionExperiencia from 'components/SectionExperiencia';
+import SectionExperiencia from 'components/PaginaExperiencia/SectionExperiencia';
 
 export default function Experiencia() {
   return (

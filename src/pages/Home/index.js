@@ -1,13 +1,13 @@
 import styles from './Home.module.css';
-import Banner from "components/Banner";
+import Banner from "components/Padrao/Banner";
 import bgVerao from './bgverao.jpg';
-import ArticleHome from 'components/ArticleHome';
-import BoxMostarda from 'components/BoxMostarda';
-import SectionTitulos from 'components/SectionTitulos';
+import ArticleHome from 'components/PaginaHome/ArticleHome';
+import BoxMostarda from 'components/PaginaHome/BoxMostarda';
+import SectionTitulos from 'components/PaginaHome/SectionTitulos'; 
 import lista1 from 'json/titulos.json';
 import lista2 from 'json/titulosPt2.json';
-import AlinharTitulos from 'components/AlinharTitulos';
-import ImagemHome from 'components/ImagemHome';
+import AlinharTitulos from 'components/PaginaHome/AlinharTitulos';
+import ImagemHome from 'components/PaginaHome/ImagemHome';
 
 export default function Home() {
     return (

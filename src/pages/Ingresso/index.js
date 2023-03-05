@@ -1,6 +1,5 @@
-import Banner from 'components/Banner';
-import MoldeFormulario from 'components/MoldeFormulario';
-import React from 'react'
+import Banner from 'components/Padrao/Banner';
+import MoldeFormulario from 'components/PaginaIngresso/MoldeFormulario';
 import ingressoBanner from './ingressoBanner.jpg';
 
 export default function Ingresso() {
