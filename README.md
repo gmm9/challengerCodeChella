@@ -32,7 +32,7 @@ git clone https://github.com/gmm9/challengerCodeChella.git
 ```
 2. Acesse a pasta do projeto
 ```
-3. abra em sua IDE(preferencia VSCODE), e utilize `npm start`
+3. abra em sua IDE(preferencia VSCODE), e utilize `npm install` && `npm start`
 ```
 
 ### 📸 Print em funcionamento
